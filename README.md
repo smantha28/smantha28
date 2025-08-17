@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Sravani Mantha
 
-✨ DevOps Engineer | Cloud Automation Enthusiast | Curious Voyager ✨
+**✨ DevOps Engineer | Cloud Automation Enthusiast | Curious Voyager ✨**
 
 I’m passionate about transforming ideas into seamless, automated, and scalable solutions. With a **master’s degree and 3+ years of experience** as a DevOps Engineer, I specialize in cloud platforms, infrastructure automation, and CI/CD pipelines—empowering teams to innovate faster and more reliably. My toolkit includes Linux, Terraform, Ansible, Jenkins, ArgoCD, Kubernetes, Docker, AWS, Azure, Python, Bash, and Shell scripting.
 
